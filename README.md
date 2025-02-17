@@ -6,4 +6,4 @@ The diagram line can be seen here. If the diagram is not representing real pictu
 ![Line Diagram for Arduino Streamdeck](https://github.com/setiawanph/DIY-Arduino-Streamdeck/blob/main/StreamDeck_Ino.png)
 
 # Code and Firmware
-For keyboard.h, it is available to be downloaded on Arduino 2.X library manager. Also, the code to be uploaded to Micro can be found in DIY-Arduino_Streamdeck/Docs.
+For keyboard.h, it is available to be downloaded on Arduino 2.X library manager. Also, the code to be uploaded to Micro can be found in DIY-Arduino_Streamdeck/Arduino Firmware(https://github.com/setiawanph/DIY-Arduino-Streamdeck/edit/Arduino-Firmware/).
